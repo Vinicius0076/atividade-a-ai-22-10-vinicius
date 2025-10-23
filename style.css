@@ -1,0 +1,35 @@
+
+h1 {
+  color: green;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#direitos {
+     text-align: center;
+     color: #fff;
+     background-color: black;
+     font-size: 9px;
+}
+
+
+
+body {
+  background-color: rgb(0, 190, 190);
+}
+
+.pratos {
+     background-color: #fff;
+     color: orange;
+}
+
+p{
+    line-height: 1;
+    color: orange;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2{
+ color: blue;
+ font-family: sans-serif;
+}
